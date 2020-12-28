@@ -12,7 +12,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "parse": "^2.5.1",
-    "parse-server": "^3.6.0",
+    "parse-server": "^4.5.0",
     "request": "^2.88.0"
   }
 }
